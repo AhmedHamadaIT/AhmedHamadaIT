@@ -7,12 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHamadaIT&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
 ###
-
 ---
 
 ## 🚀 About Me
@@ -83,7 +79,7 @@ Fayoum University, Egypt | 2020 – 2024
 - 📧 Email: ahmed1hamada1shabaan@gmail.com  
 - 🌐 Kaggle: [AhmedXHamada](https://www.kaggle.com/ahmedxhamada)  
 - 💻 GitHub: [AhmedHamadaIT](https://github.com/AhmedHamadaIT)  
-- 🔗 LinkedIn: [Ahmed Hamada](https://www.linkedin.com/in/ahmed-hamada-a48696310/)
+- 🔗 LinkedIn: [Ahmed Hamada](www.linkedin.com/in/ahmed-hamadaai)
 
 ---
 
