@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Data Science Engineer with a Bachelor’s degree in Computer Science and Artificial Intelligence from Fayoum University (2020–2024). I specialize in machine learning, deep learning, NLP, and data analytics, leveraging these skills to build impactful solutions. I have experience in software engineering, test automation, and project management, with a strong foundation in Python, R, and JavaScript.
+I am a passionate Data Science Engineer with a Bachelor’s degree in Computer Science and Artificial Intelligence from Fayoum University (2020–2024). I specialize in machine learning, deep learning, NLP, and data analytics, leveraging these skills to build impactful solutions. I have experience in software engineering, and project management, with a strong foundation in Python, R , SQL.
 
 ---
 
@@ -37,12 +37,11 @@ Fayoum University, Egypt | 2020 – 2024
 
 | Category            | Skills & Tools                                                                                   |
 |---------------------|------------------------------------------------------------------------------------------------|
-| Programming         | Python, R, JavaScript, SQL, C#                                                                   |
+| Programming         | Python, R, SQL, C++                                                                |
 | Machine Learning    | Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face Transformers                              |
 | Data Analysis       | Pandas, NumPy, Matplotlib, Seaborn, Power BI                                                    |
 | NLP & Deep Learning | NLTK, SpaCy, Transformers, Deep Learning architectures                                          |
-| Testing & QA        | TestCafe, Postman, JUnit, Selenium, Jenkins, API Testing                                        |
-| Web Development     | HTML5, CSS3, React, Redux                                                                       |
+| Web Development     | HTML5, CSS3                                                                      |
 | Tools & Platforms   | Git, GitHub, Jupyter, VS Code, Google Cloud Platform                                            |
 
 ---
@@ -58,8 +57,6 @@ Fayoum University, Egypt | 2020 – 2024
 - [Customer Segmentation](https://www.kaggle.com/code/ahmedxhamada/customer-segmentation)  
   Clustering-based customer segmentation to enable targeted marketing and business growth.
 
-- [Tic Tac Toe Game in C#](https://www.linkedin.com/posts/ahmed-hamada-a48696310_tictactoe-gamedevelopment-csharp-activity-7237394714608439296-0O1Q)  
-  Developed a classic Tic Tac Toe game demonstrating proficiency in C# and game development fundamentals.
 
 ---
 
@@ -69,8 +66,7 @@ Fayoum University, Egypt | 2020 – 2024
 - Neural Networks and Deep Learning — Andrew Ng (Coursera)  
 - Large Language Models with Hugging Face  
 - Google Project Management: Professional Certificate  
-- ISTQB Certified Tester  
-- Web Development Professional Nanodegree — Udacity  
+
 
 ---
 
@@ -81,10 +77,6 @@ Fayoum University, Egypt | 2020 – 2024
 - 💻 GitHub: [AhmedHamadaIT](https://github.com/AhmedHamadaIT)  
 - 🔗 LinkedIn: [Ahmed Hamada](www.linkedin.com/in/ahmed-hamadaai)
 
----
 
-<br clear="both" />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
----
