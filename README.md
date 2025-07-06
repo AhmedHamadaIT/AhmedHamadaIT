@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Hamada and I'm a Data Science Engineer & Machine Learning Enthusiast from Egypt.</h2>
+<h2 align="left">Hi 👋! My name is Ahmed Hamada and I'm a Data Science Engineer & Machine Learning from Egypt.</h2>
 
 ###
 
