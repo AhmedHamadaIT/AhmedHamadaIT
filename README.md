@@ -72,7 +72,7 @@ Fayoum University, Egypt | 2020 – 2024
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** [ahmed1hamada1shabaan@gmail.com](mailto:ahmed1hamada1shabaan@gmail.com)  
+- 📧 **Email:** [ahmed1hamada1shabaan@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ahmed1hamada1shabaan@gmail.com)  
 - 🌐 **Kaggle:** [AhmedXHamada](https://www.kaggle.com/ahmedxhamada)  
 - 💻 **GitHub:** [AhmedHamadaIT](https://github.com/AhmedHamadaIT)  
 - 🔗 **LinkedIn:** [Ahmed Hamada](https://www.linkedin.com/in/ahmed-hamadaai/)
