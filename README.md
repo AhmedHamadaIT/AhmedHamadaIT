@@ -32,7 +32,18 @@ I am a passionate Data Science Engineer with a Bachelor’s degree in Computer S
 Fayoum University, Egypt | 2020 – 2024
 
 ---
+## 🏆 Featured Kaggle Projects
 
+- [Child Mind Institute: Detect BFRB with Sensor](https://www.kaggle.com/code/ahmedxhamada/child-mind-institute-detect-bfrb-with-sensor)  
+  Sensor-based ML model to detect Body-Focused Repetitive Behaviors (BFRB) in children using advanced feature engineering and model evaluation.
+
+- [Airline Delay Cause Analysis](https://www.kaggle.com/code/ahmedxhamada/airline-delay-cause)  
+  Comprehensive analysis and predictive modeling of airline delay causes with data visualization insights.
+
+- [Customer Segmentation](https://www.kaggle.com/code/ahmedxhamada/customer-segmentation)  
+  Clustering-based customer segmentation to enable targeted marketing and business growth.
+
+--- 
 ## 🛠️ Skills
 
 | Category            | Skills & Tools                                                                                   |
@@ -46,19 +57,6 @@ Fayoum University, Egypt | 2020 – 2024
 
 ---
 
-## 🏆 Featured Kaggle Projects
-
-- [Child Mind Institute: Detect BFRB with Sensor](https://www.kaggle.com/code/ahmedxhamada/child-mind-institute-detect-bfrb-with-sensor)  
-  Sensor-based ML model to detect Body-Focused Repetitive Behaviors (BFRB) in children using advanced feature engineering and model evaluation.
-
-- [Airline Delay Cause Analysis](https://www.kaggle.com/code/ahmedxhamada/airline-delay-cause)  
-  Comprehensive analysis and predictive modeling of airline delay causes with data visualization insights.
-
-- [Customer Segmentation](https://www.kaggle.com/code/ahmedxhamada/customer-segmentation)  
-  Clustering-based customer segmentation to enable targeted marketing and business growth.
-
-
----
 
 ## 📜 Certifications
 
