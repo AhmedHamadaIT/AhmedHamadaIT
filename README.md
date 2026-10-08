@@ -161,16 +161,12 @@ Fine-tuned DistilBERT on financial news: 84% accuracy, 0.84 F1.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedHamadaIT&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamadaIT&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,batchfile,powershell,shell&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedHamadaIT&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamadaIT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=AhmedHamadaIT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHamadaIT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
+<p align="center"><sub>Stats reflect public repositories; most of my production work lives in private company repos.</sub></p>
 
 ---
 
